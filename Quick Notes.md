@@ -1,0 +1,2 @@
+- this keyword in arrow function use definition scope and not calling scope.
+- calling scope is used in regular functions
